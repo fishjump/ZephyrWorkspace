@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "bas.h": "c",
+        "gatt.h": "c",
+        "net_context.h": "c",
+        "udp.h": "c",
+        "log.h": "c",
+        "net_pkt.h": "c",
+        "net.h": "c"
+    }
+}

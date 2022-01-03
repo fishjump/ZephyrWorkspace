@@ -3,9 +3,9 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/zephyr/include",
-                "${workspaceFolder}/build/zephyr/include/generated",
-                "${workspaceFolder}/kernel/include"
+                "${workspaceFolder}/zephyr/include/**",
+                "${workspaceFolder}/build/zephyr/include/generated/**",
+                "${workspaceFolder}/app/include/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
